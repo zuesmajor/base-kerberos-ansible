@@ -1,0 +1,12 @@
+.DS_Store
+.terraform
+.git
+.idea
+terraform.*
+.terraform.tfstate.lock.info
+avi_backup_config.py
+scripts/
+*.retry
+*.exe
+*.msi
+*creds.yml
