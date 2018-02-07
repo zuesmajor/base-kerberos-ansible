@@ -1,3 +1,3 @@
 # SRE-Ansible-Docker
 
-Creating a DEV env for tutorials
+Creating a DEV env for tutorial
