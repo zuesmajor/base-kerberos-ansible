@@ -6,3 +6,4 @@ kerberos==1.2.5
 requests-kerberos==0.12.0
 boto==2.47.0
 boto3==1.4.4
+pyvmomi==6.5.0.2017.5.post1
